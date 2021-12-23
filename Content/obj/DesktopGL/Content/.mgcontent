@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ngour/Mono_Chess/Content/b.png</File>
+    <File>C:/Users/ngour/Mono_Chess/Content/bB.png</File>
+    <File>C:/Users/ngour/Mono_Chess/Content/bK.png</File>
+    <File>C:/Users/ngour/Mono_Chess/Content/bN.png</File>
+    <File>C:/Users/ngour/Mono_Chess/Content/bP.png</File>
+    <File>C:/Users/ngour/Mono_Chess/Content/bQ.png</File>
+    <File>C:/Users/ngour/Mono_Chess/Content/bR.png</File>
+    <File>C:/Users/ngour/Mono_Chess/Content/selected.png</File>
+    <File>C:/Users/ngour/Mono_Chess/Content/wB.png</File>
+    <File>C:/Users/ngour/Mono_Chess/Content/wK.png</File>
+    <File>C:/Users/ngour/Mono_Chess/Content/wN.png</File>
+    <File>C:/Users/ngour/Mono_Chess/Content/wP.png</File>
+    <File>C:/Users/ngour/Mono_Chess/Content/wQ.png</File>
+    <File>C:/Users/ngour/Mono_Chess/Content/wR.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>board.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

@@ -1,0 +1,15 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/ngour/Mono_Chess/Content/b.png","C:/Users/ngour/Mono_Chess/Content/bin/DesktopGL/Content/board.xnb","TextureProcessor","Texture2DContent",2876,1646173,0.2013503
+"C:/Users/ngour/Mono_Chess/Content/bB.png","C:/Users/ngour/Mono_Chess/Content/bin/DesktopGL/Content/bB.xnb","TextureProcessor","Texture2DContent",1260,14485,0.0029318
+"C:/Users/ngour/Mono_Chess/Content/bK.png","C:/Users/ngour/Mono_Chess/Content/bin/DesktopGL/Content/bK.xnb","TextureProcessor","Texture2DContent",2485,14485,0.0030558
+"C:/Users/ngour/Mono_Chess/Content/bN.png","C:/Users/ngour/Mono_Chess/Content/bin/DesktopGL/Content/bN.xnb","TextureProcessor","Texture2DContent",1516,14485,0.0026153
+"C:/Users/ngour/Mono_Chess/Content/bP.png","C:/Users/ngour/Mono_Chess/Content/bin/DesktopGL/Content/bP.xnb","TextureProcessor","Texture2DContent",797,14485,0.0033053
+"C:/Users/ngour/Mono_Chess/Content/bQ.png","C:/Users/ngour/Mono_Chess/Content/bin/DesktopGL/Content/bQ.xnb","TextureProcessor","Texture2DContent",2267,14485,0.0025026
+"C:/Users/ngour/Mono_Chess/Content/bR.png","C:/Users/ngour/Mono_Chess/Content/bin/DesktopGL/Content/bR.xnb","TextureProcessor","Texture2DContent",725,14485,0.0023861
+"C:/Users/ngour/Mono_Chess/Content/selected.png","C:/Users/ngour/Mono_Chess/Content/bin/DesktopGL/Content/selected.xnb","TextureProcessor","Texture2DContent",228,25685,0.1389587
+"C:/Users/ngour/Mono_Chess/Content/wB.png","C:/Users/ngour/Mono_Chess/Content/bin/DesktopGL/Content/wB.xnb","TextureProcessor","Texture2DContent",1944,14485,0.0029926
+"C:/Users/ngour/Mono_Chess/Content/wK.png","C:/Users/ngour/Mono_Chess/Content/bin/DesktopGL/Content/wK.xnb","TextureProcessor","Texture2DContent",2279,14485,0.002646
+"C:/Users/ngour/Mono_Chess/Content/wN.png","C:/Users/ngour/Mono_Chess/Content/bin/DesktopGL/Content/wN.xnb","TextureProcessor","Texture2DContent",1878,14485,0.0027261
+"C:/Users/ngour/Mono_Chess/Content/wP.png","C:/Users/ngour/Mono_Chess/Content/bin/DesktopGL/Content/wP.xnb","TextureProcessor","Texture2DContent",1294,14485,0.0026671
+"C:/Users/ngour/Mono_Chess/Content/wQ.png","C:/Users/ngour/Mono_Chess/Content/bin/DesktopGL/Content/wQ.xnb","TextureProcessor","Texture2DContent",2637,14485,0.0025987
+"C:/Users/ngour/Mono_Chess/Content/wR.png","C:/Users/ngour/Mono_Chess/Content/bin/DesktopGL/Content/wR.xnb","TextureProcessor","Texture2DContent",933,14485,0.0026993
